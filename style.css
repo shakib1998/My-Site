@@ -1,15 +1,38 @@
 body{
-background-color: mistyrose;
-    
+margin:0;   
+width:100%;
+height:auto;
+background-color:black;
+color: aliceblue;
+padding:1%;
     
 }
 
 h1{
 color:blue;
-text-align: center;
+text-align: left;
 }
 
 
-.ntm{
-    border:3px solid blue;
+a{
+background:#f4fdff;
+padding:1%;
+border:2px solid white;
+font-size:4vh;
+text-decoration: none;
+color: black;
+border-radius:5px;
+width:100%;
 }
+
+
+div{
+width:90%;
+}
+
+
+img{
+width:50%;
+height: auto;
+}
+
