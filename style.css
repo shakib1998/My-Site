@@ -27,6 +27,11 @@ border-radius:5px;
 width:100%;
 }
 
+a:hover{
+ background:black;
+ color: aliceblue;
+}
+
 
 div{
 text-align:left;
@@ -42,6 +47,7 @@ margin:5% 0 0  0;
 width:50%;
 height: auto;
 border-radius:50%;
+border:8px white solid;
 }
 
 i{
@@ -49,6 +55,7 @@ margin:0 3% 0 1%;
 }
 
 h3{
+color: darkcyan;
 text-align:center;
-font-size:2vh;
+font-size:3vh;
 }
